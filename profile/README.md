@@ -11,6 +11,9 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 - [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies)
 - [Samurai Vs Zombies 2](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies-2)
 
+### Other
+- [Star Warfare](https://github.com/Decomp-And-Recomp/Star-Warfare)
+
 ## Servers/Backends
 
 - [TNetSdk](https://github.com/Decomp-And-Recomp/TNetSdk-Backend) - Servers for hosting Call Of Mini and other Triniti games.  
