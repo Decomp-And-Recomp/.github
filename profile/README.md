@@ -19,6 +19,9 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 - [TNetSdk](https://github.com/Decomp-And-Recomp/TNetSdk-Backend) - Servers for hosting Call Of Mini and other Triniti games.  
 - Triniti Backend (unaviable) - Backend, made for our Triniti decomps, not compabiable with raw decompilations because network logic was modified.
 
+## Tools
+- [ULegacy Ripper](https://github.com/Decomp-And-Recomp/ULegacy-Ripper) - Modified version of Asset Ripper, targeting versions before Unity 2017. (Unity 3.5+ Support!)
+
 ## Contributors
 [Zweronz](https://github.com/Zweronz) - Project Lead.  
 [overmet15](https://github.com/overmet15) - Contributor, Backend Dev.  
