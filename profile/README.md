@@ -13,6 +13,7 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 
 ### Other
 - [Star Warfare](https://github.com/Decomp-And-Recomp/Star-Warfare)
+- [Zombieville 2](https://github.com/Decomp-And-Recomp/Zombieville-USA-2)
 
 ## Servers/Backends
 
