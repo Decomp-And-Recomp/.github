@@ -5,7 +5,8 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 ## Projects
 
 ### Triniti
-- [Call Of Mini: Dino Hunter](https://github.com/Decomp-And-Recomp/Call-Of-Mini-Dino-Hunter) (Multiplayer!)
+- [Call of Mini: Dino Hunter](https://github.com/Decomp-And-Recomp/Call-Of-Mini-Dino-Hunter)
+- [Call of Mini: Zombies v4.3.4](https://github.com/Decomp-And-Recomp/Call-of-Mini-Zombies-v4.3.4)
 
 ### Glu
 - [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies)
