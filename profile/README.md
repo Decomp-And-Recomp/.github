@@ -22,7 +22,7 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 - [Trinti NetworkObj](https://github.com/Decomp-And-Recomp/Trinti-NetworkObj) - Server for hosting Call of Mini Zombies 1 Boss Raid mode.
 
 ## Tools
-- [ULegacy Ripper](https://github.com/Decomp-And-Recomp/ULegacy-Ripper) - Modified version of Asset Ripper, targeting versions before Unity 2017. (Unity 3.5+ Support!)
+- [ULegacy Ripper](https://github.com/Decomp-And-Recomp/ULegacy-Ripper) - Modified version of Asset Ripper, targeting versions before Unity 2017. (Unity 3.4.2+ Support!)
 
 ## Contributors
 [Zweronz](https://github.com/Zweronz) - Project Lead.  
