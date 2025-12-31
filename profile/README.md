@@ -19,7 +19,8 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 
 - [TNetSdk](https://github.com/Decomp-And-Recomp/TNetSdk-Backend) - Servers for hosting Call Of Mini and other Triniti games.  
 - [Triniti Backend](https://github.com/Decomp-And-Recomp/Triniti-Backend) - Backend, made for our Triniti decomps, not compabiable with raw decompilations because network logic was modified.
-- [Trinti NetworkObj](https://github.com/Decomp-And-Recomp/Trinti-NetworkObj) - Server for hosting Call of Mini Zombies 1 Boss Raid mode.
+- ~~[Trinti NetworkObj](https://github.com/Decomp-And-Recomp/Trinti-NetworkObj) - Server for hosting Call of Mini Zombies 1 Boss Raid mode.~~
+  - To be replaced
 
 ## Tools
 - [ULegacy Ripper](https://github.com/Decomp-And-Recomp/ULegacy-Ripper) - Modified version of Asset Ripper, targeting versions before Unity 2017. (Unity 3.4.2+ Support!)
@@ -27,6 +28,10 @@ Decomp And Recomp is a small team focusing on restoration of old mobile games ma
 ## Contributors
 [Zweronz](https://github.com/Zweronz) - Project Lead.  
 [overmet15](https://github.com/overmet15) - Contributor, Backend Dev.  
+[Nick](https://github.com/ShadowOsmium) - Contributor, Tester.  
+[Chop](https://github.com/LITTLECHOPT8) - Contributor, Tester.  
+[Virjoinga](https://github.com/Virjoinga) - Contributor, Tester.
+
 If you are not listed here, contact us.
 
 ## Find Us
